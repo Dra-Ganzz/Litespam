@@ -2,6 +2,7 @@
 Script Spam Sms Terbaru 2024 😘 || draganzz
 
 ```
+termux-setup-storage
 pkg update && pkg upgrade
 apt install make clang
 apt install wget curl
