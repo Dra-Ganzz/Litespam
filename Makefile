@@ -71,7 +71,7 @@ endif
 
 run:
 	@git pull
-	@node encc.js
+	@python main.py
 
 reset:
 	@rm -f encc.js
